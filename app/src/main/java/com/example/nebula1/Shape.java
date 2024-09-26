@@ -1,2 +1,6 @@
-package com.example.nebula1;public class Shape {
+package com.example.nebula1;
+
+public abstract class Shape {
+    int x;
+    int y;
 }
